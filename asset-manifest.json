@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Saif2001-cpu/e-editor.git/static/css/main.ed198fee.chunk.css",
+    "main.js": "/Saif2001-cpu/e-editor.git/static/js/main.1a5bf76b.chunk.js",
+    "main.js.map": "/Saif2001-cpu/e-editor.git/static/js/main.1a5bf76b.chunk.js.map",
+    "runtime-main.js": "/Saif2001-cpu/e-editor.git/static/js/runtime-main.8a5db658.js",
+    "runtime-main.js.map": "/Saif2001-cpu/e-editor.git/static/js/runtime-main.8a5db658.js.map",
+    "static/js/2.b6834a0d.chunk.js": "/Saif2001-cpu/e-editor.git/static/js/2.b6834a0d.chunk.js",
+    "static/js/2.b6834a0d.chunk.js.map": "/Saif2001-cpu/e-editor.git/static/js/2.b6834a0d.chunk.js.map",
+    "static/js/3.c8a445fe.chunk.js": "/Saif2001-cpu/e-editor.git/static/js/3.c8a445fe.chunk.js",
+    "static/js/3.c8a445fe.chunk.js.map": "/Saif2001-cpu/e-editor.git/static/js/3.c8a445fe.chunk.js.map",
+    "index.html": "/Saif2001-cpu/e-editor.git/index.html",
+    "static/css/main.ed198fee.chunk.css.map": "/Saif2001-cpu/e-editor.git/static/css/main.ed198fee.chunk.css.map",
+    "static/js/2.b6834a0d.chunk.js.LICENSE.txt": "/Saif2001-cpu/e-editor.git/static/js/2.b6834a0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a5db658.js",
+    "static/js/2.b6834a0d.chunk.js",
+    "static/css/main.ed198fee.chunk.css",
+    "static/js/main.1a5bf76b.chunk.js"
+  ]
+}
